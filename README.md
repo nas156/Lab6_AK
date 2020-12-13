@@ -1,5 +1,5 @@
 # Lab6_AK
-# file Hevelencko_IV-82_Lab6.odt is doc  
+#  Протокол: Hevelencko_IV-82_Lab6.odt
 
 Перевірка стилю коду:  
 ![image](https://user-images.githubusercontent.com/31134655/102012131-370a4f80-3d51-11eb-8e10-81659dd5fe32.png)  
